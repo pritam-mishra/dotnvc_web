@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.privicy-section h1 {
+    width: 250px;
+    margin-bottom: 50px;
+    padding: 10px;
+    background-color: lightblue;
+    margin-inline: 45%;
+    margin-inline-start: auto;
+}
+
+.privicy-section h2 {
+    margin-bottom: 20px;
+    padding: 10px;
+    margin: auto;
+}
+
+.privicy-section p {
+    margin-bottom: 20px;
+    padding: 10px;
+}
